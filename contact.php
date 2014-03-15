@@ -10,8 +10,8 @@ include "includes/head.php";
 	   	 	<h1>Contact Us</h1>
 		</div>
     	<div data-role="fieldcontain">
-    		<label><b>Email Us:</label> </b><a href="mailto:brian@britedevelopment.com"> Brite Development</a>
-		   <label for"phone"><b>Telephone: </b></label>
+    		<label><b>Email Us:</b></label><a href="mailto:brian@britedevelopment.com"> Brite Development</a> <br />
+		   <label ><b>By Telephone: </b></label>
 		   <a href="tel:304-634-6736">(304)-634-6736</a>
 		   <p>BRITE Development
 		   	<br /> PO Box 4437 
