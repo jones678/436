@@ -1,7 +1,7 @@
 <?php
 include "includes/head.php";
 ?>
-        <div data-role=page>
+        <div data-role="page">
     <div data-role="header" id="header" data-id="header" data-position="fixed">
         <h1 id="logo"><span id="b">b</span><span id="rite">RITE</span></h1>
     </div>

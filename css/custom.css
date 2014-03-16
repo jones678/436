@@ -23,3 +23,6 @@ background: linear-gradient(black,grey,black); /* Standard syntax */
 #banner{
 	background-image: url("../images/hand.tiff");
 }
+.green{
+	color: #3faa40;
+}
