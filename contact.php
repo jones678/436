@@ -6,20 +6,17 @@ include "includes/head.php";
         <h1 id="logo"><span id="b">b</span><span id="rite">RITE</span></h1>
     </div>
     <div data-role="content">
-    	<div data-role="fieldcontain">
-	   	 	<h1>Contact Us</h1>
-		</div>
-    	<div data-role="fieldcontain">
-    		<label><b>Email Us:</b></label><a href="mailto:brian@britedevelopment.com"> Brite Development</a> <br />
-		   <label ><b>By Telephone: </b></label>
-		   <a href="tel:304-634-6736">(304)-634-6736</a>
-		   <p>BRITE Development
-		   	<br /> PO Box 4437 
-		   	<br /> Proctoville, OH 45669</p>
-		   <a href="https://www.facebook.com/britedevelopment"><h1>On Facebook</h1></a>
-		   <a href="https://twitter.com/BRITEDev/"><h1>On Twitter</h1></a>
-    	</div>
+    	<ul data-role="listview" data-inset="true">
+			<li data-role="list-divider">Contact Brite</li>
+			<li><a href="mailto:brian@britedevelopment.com"><img src="img/grEmail.jpg" class="ui-li-icon"/>Email</a></li>
+			<li><a href="tel:304-634-6736"><img src="img/grPhone.jpg" class="ui-li-icon">Call</a></li>
+			<li><a href="https://www.facebook.com/britedevelopment"><img src="img/facebook.jpg" class="ui-li-icon"/>FaceBook</a></li> 
+			<li><a href="https://twitter.com/BRITEDev/"><img src="img/twitter.jpg" class="ui-li-icon"/>Twitter</a></li>
+			<li><img src="img/mailing.jpg" class="ui-li-icon"/>Mailing Address:<br /> BRITE Development <br /> PO Box 4437 <br />Proctorville, OH 45669</li>
+		</ul>
+    
 	    
+
 
 
    
